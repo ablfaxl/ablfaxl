@@ -1,8 +1,16 @@
-### Hi there 👋
+
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=ablfaxl)](https://github.com/ablfaxl)
+
 
 <!--
 **ablfaxl/ablfaxl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi I'm Abolfazl  and I am always learning 👋
+- 🌱 I’m currently learning ...
 
+<p align=”center”>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ablfaxl&layout=compact)](https://github.com/ablfaxl)
+</p>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
