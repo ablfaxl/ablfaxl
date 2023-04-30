@@ -1,6 +1,6 @@
 
-
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ablfaxl&theme=tokyonight&show_icons=false)
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ablfaxl&hide=contribs,prs&theme=onedark)
+<!--    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ablfaxl&theme=onedark&show_icons=false) -->
       <h2>Next js Developer 💻</h4>  
 
    The languages and technologies I use :
