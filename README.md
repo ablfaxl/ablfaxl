@@ -1,8 +1,9 @@
 
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ablfaxl&hide=contribs,prs&theme=onedark)
-<!--    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ablfaxl&theme=onedark&show_icons=false) -->
-      <h2>Next js Developer 💻</h2>  
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ablfaxl&theme=onedark&show_icons=false) -->
 
+ # Next js Developer 💻
+ 
    The languages and technologies I use :
    
    ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -23,6 +24,9 @@
    
    <br />
    
+   <a href="https://app.daily.dev/_ablfaxl"><img src="https://api.daily.dev/devcards/91411c062ca042c8ba53525936f5927a.png?r=mvr" width="200"  alt="Abolfazl Taghavi's Dev Card"/></a>
+   
+
    Contact Me
    
    <a href="https://t.me/ablfaxl">
