@@ -24,7 +24,7 @@
    
    <br />
    
-   <a href="https://app.daily.dev/_ablfaxl"><img src="https://api.daily.dev/devcards/91411c062ca042c8ba53525936f5927a.png?r=mvr" width="200"  alt="Abolfazl Taghavi's Dev Card"/></a>
+<!--    <a href="https://app.daily.dev/_ablfaxl"><img src="https://api.daily.dev/devcards/91411c062ca042c8ba53525936f5927a.png?r=mvr" width="200"  alt="Abolfazl Taghavi's Dev Card"/></a> -->
    
 
    Contact Me
