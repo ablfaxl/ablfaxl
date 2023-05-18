@@ -25,15 +25,20 @@
    <br />
    
 <!--    <a href="https://app.daily.dev/_ablfaxl"><img src="https://api.daily.dev/devcards/91411c062ca042c8ba53525936f5927a.png?r=mvr" width="200"  alt="Abolfazl Taghavi's Dev Card"/></a> -->
-   
+  #
 
    Contact Me
    
    <a href="https://t.me/ablfaxl">
    
    ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-   
    </a>
+   
+   
+   #
+   
+  ![](https://komarev.com/ghpvc/?username=your-github-ablfaxl&style=flat-square)
+   
    
 <!--    <a href="https://www.instagram.com/taghavi.ablfaxl">
    ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
