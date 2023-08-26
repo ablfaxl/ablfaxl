@@ -64,8 +64,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ablfaxl&show_icons=true&theme=vue-dark&count_private=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ablfaxl&layout=compact&theme=vue-dark" />
+ <img src="https://github-readme-stats.vercel.app/api?username=ablfaxl&show_icons=true&theme=vue-dark&count_private=true" /> 
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ablfaxl&layout=compact&theme=vue-dark" /> -->
 </div>
 
 <br>
