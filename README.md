@@ -18,7 +18,7 @@
 <br>
 
 - A passionate Self-taught Front-end developer
-- Focus on NextJS and Jest 
+- Focus on NextJS 
 - I am currently working at Hodad Technology Company
 - Currently, I have the possibility of getting a Freelance project
 <!-- - Currently learning Web Development by Self -->
