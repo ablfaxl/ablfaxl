@@ -38,4 +38,3 @@
     <li><a href="https://www.linkedin.com/in/abolfazl-taghavi-522277247/" target="_blank">🔗 LinkedIn</a></li> 
 </ul>
 
-.
