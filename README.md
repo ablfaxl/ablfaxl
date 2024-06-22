@@ -1,6 +1,6 @@
 <div>
 	<ul>
-  <li>👋 Hi there! I'm Abolfazl Taghavi, a 22-year-old front-end developer.</li>
+  <li>👋 Hi there! I'm Abolfazl Taghavi, a 22-year-old front-end engineer</li>
   <li>🚀 Specializing in React and Next.js, I excel at crafting interactive web applications.</li>
 <!--   <li>💻 Let's connect and collaborate! You can reach me via:</li>
   <ul>
