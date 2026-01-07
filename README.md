@@ -15,7 +15,6 @@ Frontend Engineer with 4+ years of experience building production-ready web appl
 - Clean architecture & readable code
 - Performance & UX
 - Scalable frontend systems
-- 
 <!--
 # TODO
 - 👨‍💻 Check my portfolio [https://ablfaxl.ir](https://ablfaxl.ir) 
