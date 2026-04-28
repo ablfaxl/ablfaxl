@@ -24,6 +24,6 @@ Preparing for frontend roles in Europe 🇪🇺
 -->
 
 ## 📫 Contact
-- LinkedIn: [click here](www.linkedin.com/in/abolfazl-taghavi)
+- LinkedIn: [click here](https://linkedin.com/in/abolfazl-taghavi)
 
 </div>
